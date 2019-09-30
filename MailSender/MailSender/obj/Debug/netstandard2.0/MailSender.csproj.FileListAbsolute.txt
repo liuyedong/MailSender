@@ -1,4 +1,8 @@
-D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.csprojAssemblyReference.cache
 D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.csproj.CoreCompileInputs.cache
 D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.AssemblyInfoInputs.cache
 D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.AssemblyInfo.cs
+D:\demo\MailHelper\MailSender\MailSender\MailSender\bin\Debug\netstandard2.0\MailSender.deps.json
+D:\demo\MailHelper\MailSender\MailSender\MailSender\bin\Debug\netstandard2.0\MailSender.dll
+D:\demo\MailHelper\MailSender\MailSender\MailSender\bin\Debug\netstandard2.0\MailSender.pdb
+D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.dll
+D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.pdb

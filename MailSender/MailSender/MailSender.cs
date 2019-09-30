@@ -6,11 +6,11 @@ using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CC.ERP.BLL.Message
+namespace Message
 {
     public static class MailSender
     {
-        
+
         /// <summary>
         /// 发送邮件方法
         /// </summary>
@@ -26,6 +26,7 @@ namespace CC.ERP.BLL.Message
             {
                 ///"oiwjnmuqsvpcbhgh"
                 var receivelist = mailaccepter.Split(',');
+
 
                 MailMessage mailMessage = new MailMessage();
                 mailMessage.From = new MailAddress(mailsender);
@@ -54,7 +55,7 @@ namespace CC.ERP.BLL.Message
             }
             catch (Exception ex)
             {
-
+                throw ex;
             }
         }
     }
