@@ -1,0 +1,4 @@
+D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.csprojAssemblyReference.cache
+D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.csproj.CoreCompileInputs.cache
+D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.AssemblyInfoInputs.cache
+D:\demo\MailHelper\MailSender\MailSender\MailSender\obj\Debug\netstandard2.0\MailSender.AssemblyInfo.cs
